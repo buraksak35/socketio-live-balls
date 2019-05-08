@@ -1,0 +1,14 @@
+{
+  "name": "socketio-live-balls",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Burak Sak <buraksakgit@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/buraksak35/socketio-live-balls",
+  "dependencies": {
+    "angular": "^1.7.8",
+    "jquery": "^3.4.1"
+  }
+}
